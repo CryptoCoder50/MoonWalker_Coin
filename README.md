@@ -1,7 +1,8 @@
 # MoonWalker_Token
-MoonWalker Coin is a TRC20 Protocol, This contract has Tokenomics built into it.
-Tokennomics:
-🔥 2% of every transaction is REDISTRIBUTED to all holders including black hole
-🔥 2% of every transaction is added to the liquidity pool by smart contract & locked forever
-🔥 70% of the supply is burned Coming up soon
-🔥 10,000,000,000,000,000,000,000 total supply
+MoonWalker Coin is a TRC20 Protocol, This contract has a limited Supply.
+
+:::WIP::::
+
+Mobile wallet for both IOS & Andriod featuring a built in dex.
+The Coin will power a new NFT exhange & a Decentralized Exchange.
+The Features will be built and selected by token holder, a vote system will be built within wallets.
