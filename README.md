@@ -1,5 +1,5 @@
 # MoonWalker_Token
-MoonWalker Coin is a TRC20 Protocol, This contract has a limited Supply.
+MoonWalker Coin is a TRC20 Protocol, This contract has tokenomics built into it, which taxes 2% and redistributes to all longterm holders.
 Currenty released on Tron Blockchain.
 
 :::WIP::::
