@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: Unlicense
 
 pragma solidity ^0.6.8;
 
@@ -416,7 +416,7 @@ contract Ownable is Context {
 
 
 
-contract MoonWalkerTokenomicsCoin is Context, IERC20, Ownable {
+contract MoonWalker is Context, IERC20, Ownable {
     using SafeMath for uint256;
     using Address for address;
 
@@ -432,8 +432,8 @@ contract MoonWalkerTokenomicsCoin is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = 'MoonWalkerSpaceCoin';
-    string private _symbol = 'MWKC';
+    string private _name = 'MoonWalker';
+    string private _symbol = 'MWK';
     uint8 private _decimals = 8;
 
     uint256 public _maxTxAmount = 100000000 * 10**6 * 10**9;
