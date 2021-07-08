@@ -5,4 +5,4 @@ Currenty released on Binance Smart Chain.
 :::WIP::::
 
 Mobile wallet for both IOS & Andriod..
-The MoonWalker Coin will power a new Decentralized Swap Exchange + NFT exchange
+The MoonWalker Coin will power a new Decentralized Swap Exchange with a NFT exchange builtin.
