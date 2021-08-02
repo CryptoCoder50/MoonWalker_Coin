@@ -1,5 +1,5 @@
 # MoonWalker_Token
-MoonWalker Coin is a BEP20 Protocol, This contract has tokenomics built into it, which taxes 5% and redistributes to all longterm holders.
+MoonWalker Coin is a BEP20 Protocol, This contract has tokenomics built into it, which taxes 10% and 8% is redistributes to all longterm holders.
 Currenty released on Binance Smart Chain.
 
 :::WIP::::
